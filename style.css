@@ -1,0 +1,36 @@
+body{
+    font-family: Arial;
+    background-color: #D1E7E0;
+}
+.naglowek{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 25px;
+    padding: 15px;
+    color: black;
+}
+.pole{
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    margin: 5px;
+    background-color: #F3EED9;
+    font-size: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana;
+}
+.kolumna{
+    float: left;
+}
+.plansza{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 35px;
+    height: 500px;
+}
